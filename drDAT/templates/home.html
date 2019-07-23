@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+
+    <style>
+        .loader {
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #3498db;
+            width: 120px;
+            height: 120px;
+            -webkit-animation: spin 2s linear infinite;
+            /* Safari */
+            animation: spin 2s linear infinite;
+        }
+
+        /* Safari */
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <h1>Data Analysis Tool</h1>
+    <!-- <a href="http://localhost:5000/julia">Run</a> -->
+    <!-- <img src="http://localhost:5000/img/images/fig.png" alt="plot"> -->
+    <form>
+        <h3>Select Analysis</h3>
+        <select id="analyses">
+			<option>HelloWorld</option>
+			<option>SysData</option>
+			<option>test1</option>
+
+</select>
+    </form>
+    <br>
+    <button type="button" onclick="runAnalysis()">Run Analysis</button>
+
+    <div id="ldr" class="loader" style="display: none"></div>
+    <div id="result"></div>
+    <script async defer>
+        function runAnalysis() {
+            var selectedAnalysis = document.getElementById("analyses").value;
+            document.getElementById("result").innerHTML = "";
+            document.getElementById("ldr").style.display = "block";
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("ldr").style.display = "none";
+                    document.getElementById("result").innerHTML =
+                        this.responseText;
+                }
+            };
+            xhttp.open("GET", "http://localhost:5000/" + selectedAnalysis, true);
+            xhttp.send();
+        }
+    </script>
+</body>
+
+</html>
