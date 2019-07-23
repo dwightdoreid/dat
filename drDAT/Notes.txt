@@ -1,0 +1,3 @@
+dat_venv\scripts\activate
+
+localhost:5000/img/templates/images/fig.png
