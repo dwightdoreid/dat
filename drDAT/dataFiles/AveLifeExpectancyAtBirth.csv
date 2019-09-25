@@ -1,0 +1,235 @@
+FIPS,Name,Type,TimeFrame,LifeExpectancy
+WORLD,WORLD,World,2018,74
+AFRICA,AFRICA,Sub-Region,2018,64
+NORTHERN AFRICA,NORTHERN AFRICA,Sub-Region,2018,74
+DZ,Algeria,Country,2018,78
+EG,Egypt,Country,2018,74
+LY,Libya,Country,2018,75
+MA,Morocco,Country,2018,78
+SD,Sudan,Country,2018,66
+TN,Tunisia,Country,2018,78
+EH,Western Sahara,Country,2018,72
+WESTERN AFRICA,WESTERN AFRICA,Sub-Region,2018,58
+BJ,Benin,Country,2018,62
+BF,Burkina Faso,Country,2018,61
+CV,Cape Verde,Country,2018,75
+CI,Cote d'Ivoire,Country,2018,55
+GM,Gambia,Country,2018,63
+GH,Ghana,Country,2018,64
+GN,Guinea,Country,2018,61
+GW,Guinea-Bissau,Country,2018,59
+LR,Liberia,Country,2018,64
+ML,Mali,Country,2018,62
+MR,Mauritania,Country,2018,65
+NE,Niger,Country,2018,61
+NG,Nigeria,Country,2018,54
+SN,Senegal,Country,2018,69
+SL,Sierra Leone,Country,2018,52
+TG,Togo,Country,2018,61
+EASTERN AFRICA,EASTERN AFRICA,Sub-Region,2018,66
+BI,Burundi,Country,2018,62
+KM,Comoros,Country,2018,65
+DJ,Djibouti,Country,2018,64
+ER,Eritrea,Country,2018,68
+ET,Ethiopia,Country,2018,67
+KE,Kenya,Country,2018,69
+MG,Madagascar,Country,2018,68
+MW,Malawi,Country,2018,66
+MU,Mauritius,Country,2018,78
+YT,Mayotte,Country,2018,77
+MZ,Mozambique,Country,2018,60
+RE,Reunion,Country,2018,84
+RW,Rwanda,Country,2018,69
+SC,Seychelles,Country,2018,78
+SO,Somalia,Country,2018,58
+SS,South Sudan,Country,2018,58
+TZ,Tanzania,Country,2018,67
+UG,Uganda,Country,2018,64
+ZM,Zambia,Country,2018,64
+ZW,Zimbabwe,Country,2018,62
+MIDDLE AFRICA,MIDDLE AFRICA,Sub-Region,2018,60
+AO,Angola,Country,2018,62
+CM,Cameroon,Country,2018,60
+CF,Central African Republic,Country,2018,54
+TD,Chad,Country,2018,54
+CG,Congo,Country,2018,61
+CD,"Congo, Dem. Rep.",Country,2018,61
+GQ,Equatorial Guinea,Country,2018,59
+GA,Gabon,Country,2018,68
+ST,Sao Tome and Principe,Country,2018,69
+SOUTHERN AFRICA,SOUTHERN AFRICA,Sub-Region,2018,67
+BW,Botswana,Country,2018,65
+SZ,eSwatini,Country,2018,61
+LS,Lesotho,Country,2018,56
+NA,Namibia,Country,2018,65
+ZA,South Africa,Country,2018,67
+NORTHERN AMERICA,NORTHERN AMERICA,Sub-Region,2018,81
+CA,Canada,Country,2018,84
+US,United States,Country,2018,81
+LATIN AMERICA AND THE CARIBBEAN,LATIN AMERICA AND THE CARIBBEAN,Sub-Region,2018,79
+CENTRAL AMERICA,CENTRAL AMERICA,Sub-Region,2018,79
+BZ,Belize,Country,2018,77
+CR,Costa Rica,Country,2018,83
+SV,El Salvador,Country,2018,78
+GT,Guatemala,Country,2018,76
+HN,Honduras,Country,2018,76
+MX,Mexico,Country,2018,80
+NI,Nicaragua,Country,2018,78
+PA,Panama,Country,2018,81
+CARIBBEAN,CARIBBEAN,Sub-Region,2018,76
+AG,Antigua and Barbuda,Country,2018,79
+BS,Bahamas,Country,2018,79
+BB,Barbados,Country,2018,78
+CU,Cuba,Country,2018,81
+CW,Curacao,Country,2018,82
+DM,Dominica,Country,2018,78
+DO,Dominican Republic,Country,2018,77
+GD,Grenada,Country,2018,79
+GP,Guadeloupe,Country,2018,84
+HT,Haiti,Country,2018,67
+JM,Jamaica,Country,2018,78
+MQ,Martinique,Country,2018,84
+PR,Puerto Rico,Country,2018,84
+KN,St. Kitts-Nevis,Country,2018,78
+LC,Saint Lucia,Country,2018,83
+VC,St. Vincent and the Grenadines,Country,2018,75
+TT,Trinidad and Tobago,Country,2018,76
+SOUTH AMERICA,SOUTH AMERICA,Sub-Region,2018,79
+AR,Argentina,Country,2018,80
+BO,Bolivia,Country,2018,72
+BR,Brazil,Country,2018,79
+CL,Chile,Country,2018,82
+CO,Colombia,Country,2018,79
+EC,Ecuador,Country,2018,79
+GF,French Guiana,Country,2018,81
+GY,Guyana,Country,2018,69
+PY,Paraguay,Country,2018,75
+PE,Peru,Country,2018,78
+SR,Suriname,Country,2018,75
+UY,Uruguay,Country,2018,81
+VE,Venezuela,Country,2018,79
+ASIA,ASIA,Sub-Region,2018,74
+WESTERN ASIA,WESTERN ASIA,Sub-Region,2018,77
+AM,Armenia,Country,2018,78
+AZ,Azerbaijan,Country,2018,78
+BH,Bahrain,Country,2018,78
+CY,Cyprus,Country,2018,85
+GE,Georgia,Country,2018,78
+IQ,Iraq,Country,2018,72
+IL,Israel,Country,2018,84
+JO,Jordan,Country,2018,76
+KW,Kuwait,Country,2018,76
+LB,Lebanon,Country,2018,79
+OM,Oman,Country,2018,79
+PS,Palestinian Territory,Country,2018,75
+QA,Qatar,Country,2018,80
+SA,Saudi Arabia,Country,2018,76
+SY,Syria,Country,2018,77
+TR,Turkey,Country,2018,81
+AE,United Arab Emirates,Country,2018,79
+YE,Yemen,Country,2018,66
+CENTRAL ASIA,CENTRAL ASIA,Sub-Region,2018,76
+KZ,Kazakhstan,Country,2018,77
+KG,Kyrgyzstan,Country,2018,75
+TJ,Tajikistan,Country,2018,74
+TM,Turkmenistan,Country,2018,71
+UZ,Uzbekistan,Country,2018,76
+SOUTH ASIA,SOUTH ASIA,Sub-Region,2018,70
+AF,Afghanistan,Country,2018,65
+BD,Bangladesh,Country,2018,73
+BT,Bhutan,Country,2018,70
+IN,India,Country,2018,70
+IR,Iran,Country,2018,77
+MV,Maldives,Country,2018,78
+NP,Nepal,Country,2018,71
+PK,Pakistan,Country,2018,68
+LK,Sri Lanka,Country,2018,79
+SOUTHEAST ASIA,SOUTHEAST ASIA,Sub-Region,2018,73
+BN,Brunei,Country,2018,79
+KH,Cambodia,Country,2018,71
+ID,Indonesia,Country,2018,71
+LA,Laos,Country,2018,68
+MY,Malaysia,Country,2018,77
+MM,Myanmar,Country,2018,69
+PH,Philippines,Country,2018,73
+SG,Singapore,Country,2018,85
+TH,Thailand,Country,2018,79
+TL,Timor-Leste,Country,2018,71
+VN,Vietnam,Country,2018,76
+EAST ASIA,EAST ASIA,Sub-Region,2018,79
+CN,China,Country,2018,78
+HK,"China, Hong Kong SAR",Country,2018,88
+MO,"China, Macao SAR",Country,2018,86
+JP,Japan,Country,2018,87
+KP,"Korea, North",Country,2018,75
+KR,"Korea, South",Country,2018,85
+MN,Mongolia,Country,2018,75
+TW,Taiwan,Country,2018,84
+EUROPE,EUROPE,Sub-Region,2018,82
+NORTHERN EUROPE,NORTHERN EUROPE,Sub-Region,2018,83
+Channel Islands,Channel Islands,Sub-Region,2018,85
+DK,Denmark,Country,2018,83
+EE,Estonia,Country,2018,82
+FI,Finland,Country,2018,84
+IS,Iceland,Country,2018,84
+IE,Ireland,Country,2018,83
+LV,Latvia,Country,2018,79
+LT,Lithuania,Country,2018,80
+NO,Norway,Country,2018,84
+SE,Sweden,Country,2018,84
+GB,United Kingdom,Country,2018,83
+WESTERN EUROPE,WESTERN EUROPE,Sub-Region,2018,84
+AT,Austria,Country,2018,84
+BE,Belgium,Country,2018,84
+FR,France,Country,2018,85
+DE,Germany,Country,2018,83
+LI,Liechtenstein,Country,2018,84
+LU,Luxembourg,Country,2018,84
+MC,Monaco,Country,2018,n/a
+NL,Netherlands,Country,2018,83
+CH,Switzerland,Country,2018,85
+EASTERN EUROPE,EASTERN EUROPE,Sub-Region,2018,78
+BY,Belarus,Country,2018,79
+BG,Bulgaria,Country,2018,78
+CZ,Czechia,Country,2018,82
+HU,Hungary,Country,2018,79
+MD,Moldova,Country,2018,76
+PL,Poland,Country,2018,82
+RO,Romania,Country,2018,79
+RU,Russia,Country,2018,78
+SK,Slovakia,Country,2018,80
+UA,Ukraine,Country,2018,76
+SOUTHERN EUROPE,SOUTHERN EUROPE,Sub-Region,2018,84
+AL,Albania,Country,2018,80
+AD,Andorra,Country,2018,n/a
+BA,Bosnia-Herzegovina,Country,2018,79
+HR,Croatia,Country,2018,80
+GR,Greece,Country,2018,84
+IT,Italy,Country,2018,85
+KV,Kosovo,Country,2018,79
+MK,Macedonia,Country,2018,78
+MT,Malta,Country,2018,84
+ME,Montenegro,Country,2018,79
+PT,Portugal,Country,2018,83
+SM,San Marino,Country,2018,87
+RS,Serbia,Country,2018,78
+SI,Slovenia,Country,2018,84
+ES,Spain,Country,2018,86
+OCEANIA,OCEANIA,Sub-Region,2018,80
+AU,Australia,Country,2018,85
+FM,Federated States of Micronesia,Country,2018,70
+FJ,Fiji,Country,2018,73
+PF,French Polynesia,Country,2018,78
+GU,Guam,Country,2018,82
+KI,Kiribati,Country,2018,70
+MH,Marshall Islands,Country,2018,73
+NR,Nauru,Country,2018,65
+NC,New Caledonia,Country,2018,80
+NZ,New Zealand,Country,2018,83
+PW,Palau,Country,2018,77
+PG,Papua New Guinea,Country,2018,68
+WS,Samoa,Country,2018,76
+SB,Solomon Islands,Country,2018,73
+TO,Tonga,Country,2018,76
+TV,Tuvalu,Country,2018,72
+VU,Vanuatu,Country,2018,74
